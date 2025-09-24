@@ -1,7 +1,7 @@
 # MRI-based Parkinson's Disease Classification
 
 
-This project implements and evaluates two deep learning models, a 3D Convolutional Neural Network (3D-CNN) and a CNN-LSTM, for the classification of Parkinson's disease from 3D MRI scans. The goal is to distinguish between healthy individuals and patients with Parkinson's.
+This project implements and evaluates two deep learning models, a 3D Convolutional Neural Network (3D-CNN) and a CNN-LSTM, for classifying Parkinson's disease from 3D MRI scans. The goal is to distinguish between healthy individuals and those with Parkinson's disease.
 
 ## Table of Contents
 
